@@ -22,4 +22,4 @@ Análise exploratória usando dados do MovieLens (notas de filmes) e do TMDB (or
 - Análise de idioma dos filmes
 
 ## Arquivo
-- `notas.ipynb` — notebook com a análise
+- `Aula 1/Introdução_a_data_science.ipynb` — notebook com a análise
